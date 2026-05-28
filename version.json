@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "windows_url": "https://github.com/Mrpikachu339/Total-Havoc-Game-Files/releases/download/v1.0.0/windows.zip",
+  "windows_exe": "TotalHavoc.exe",
+  "macos_url": "https://github.com/Mrpikachu339/Total-Havoc-Game-Files/releases/download/v1.0.0/mac.zip",
+  "macos_exe": "TotalHavoc.app"
+}
