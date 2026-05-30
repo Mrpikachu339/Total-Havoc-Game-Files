@@ -3,5 +3,5 @@
   "windows_url": "https://www.dropbox.com/scl/fi/swhr8p2yxq1qyjf1vnt2c/Total-Havoc-Windows.zip?rlkey=h61z6bqbwe3maqinwzfhvboo6&st=3e8bl7qo&dl=1",
   "windows_exe": "Total Havoc.exe",
   "macos_url": "https://www.dropbox.com/scl/fi/qf25fvj6ebxnurfoyqro9/Total-Havoc-Mac.zip?rlkey=2m6zhnc166yljvywpsnv6t8fo&st=qt6hd737&dl=1",
-  "macos_exe": "Total Havoc.app"
+  "macos_exe": "Total Havoc.app/Contents/MacOS/Total Havoc"
 }
