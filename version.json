@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0 - Demo",
-  "windows_url": "https://github.com/Mrpikachu339/Total-Havoc-Game-Files/releases/download/v0.1.0/Total Havoc Windows.zip",
+  "version": "0.0.0 - Demo",
+  "windows_url": "https://github.com/Mrpikachu339/Total-Havoc-Game-Files/releases/download/v0.0.0/Total Havoc Windows.zip",
   "windows_exe": "Total Havoc.exe",
-  "macos_url": "https://github.com/Mrpikachu339/Total-Havoc-Game-Files/releases/download/v0.1.0/Total Havoc Mac.zip",
+  "macos_url": "https://github.com/Mrpikachu339/Total-Havoc-Game-Files/releases/download/v0.0.0/Total Havoc Mac.zip",
   "macos_exe": "Total Havoc.app"
 }
